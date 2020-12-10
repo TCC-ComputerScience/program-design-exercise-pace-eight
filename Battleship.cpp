@@ -1,5 +1,5 @@
 /*
-Ethan Darland, Sam Dill, Morteem, Ean
+Ethan Darland, Sam Dill, Seth Groves, Ean Miller
 CSC 201
 Professor Davis
 Battleship.cpp
