@@ -7,7 +7,7 @@ This program simulates the game, Battleship.
 */
 
 using namespace std;
-
+#include "BattleStruct.h"
 
 int main()
 {
